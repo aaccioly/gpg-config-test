@@ -1,2 +1,3 @@
 First commit is unsigned
 Second commit is signed with "anonymous" identity
+Third commit is signed with 7RTC's key
