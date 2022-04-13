@@ -1,1 +1,2 @@
 First commit is unsigned
+Second commit is signed with "anonymous" identity
